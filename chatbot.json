@@ -522,14 +522,12 @@
                 "dumb"
             ],
             "responses": [
-                "I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful",
-                "Sorry for not being useful"
+                "I wish you wouldn't say such hurtful things."
             ]
         },
         {
             "tag": "location",
             "patterns": [
-                "",
                 "live",
                 "location"
             ],
