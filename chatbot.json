@@ -1,11 +1,6 @@
 {
     "intents": [
         {
-            "tag": "you_are_sentiment",
-            "patterns": ["you are [word]", "you're [word]", "I am [word]"],
-            "responses": []
-        },
-        {
             "tag": "greeting",
             "patterns": [
                 "hi",
