@@ -964,15 +964,6 @@
             "responses": [
                 "{x}"
             ]
-        },
-        {
-            "tag": "say-things",
-            "patterns": [
-                "say [y]"
-            ],
-            "responses": [
-                "{y}"
-            ]
         }
     ]
 }
