@@ -960,12 +960,18 @@
             "tag": "math_solve",
             "patterns": [
                 "[x]",
-                "solve [x]",
-                "calculate [x]",
-                "evaluate [x]"
             ],
             "responses": [
                 "{x}"
+            ]
+        },
+        {
+            "tag": "say-things",
+            "patterns": [
+                "say [y]",
+            ],
+            "responses": [
+                "{y}"
             ]
         }
     ]
