@@ -959,7 +959,7 @@
         {
             "tag": "math_solve",
             "patterns": [
-                "[x]",
+                "[x]"
             ],
             "responses": [
                 "{x}"
@@ -968,7 +968,7 @@
         {
             "tag": "say-things",
             "patterns": [
-                "say [y]",
+                "say [y]"
             ],
             "responses": [
                 "{y}"
