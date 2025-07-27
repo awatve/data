@@ -964,6 +964,17 @@
             "responses": [
                 "{x}"
             ]
+        },
+        {
+           "tag": "define",
+           "patterns": [
+                "[x]"
+            ],
+           "responses": [
+                "{x}"
+        
+            ]
         }
+
     ]
 }
