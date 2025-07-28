@@ -966,16 +966,6 @@
             ]
         },
         {
-           "tag": "define",
-           "patterns": [
-                "[x]"
-            ],
-           "responses": [
-                "{x}"
-        
-            ]
-        },
-        {
            "tag": "you-are-sentiment",
            "patterns": [
                 "[word]"
