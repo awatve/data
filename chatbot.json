@@ -974,6 +974,16 @@
                 "{x}"
         
             ]
+        },
+        {
+           "tag": "you-are-sentiment",
+           "patterns": [
+                "[word]"
+            ],
+           "responses": [
+                "{word}"
+        
+            ]
         }
 
     ]
