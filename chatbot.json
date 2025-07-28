@@ -52,6 +52,27 @@
             ]
         },
         {
+            "tag": "can-solve",
+            "patterns": [
+                "solve equations"
+            ],
+            "responses": [
+                "I can solve equations. I can add, subtract, multiply and divide.",
+                "I can add, subtract, multiply and divide.",
+                "I can solve basic equations."    
+            ]
+        },
+        {
+            "tag": "essay",
+            "patterns": [
+                "write essay"
+            ],
+            "responses": [
+                "I cannot write an essay.",
+                "I am a basic chatbot. I am not that smart to write essays."    
+            ]
+        },
+        {
             "tag": "night",
             "patterns": [
                 "good night"
