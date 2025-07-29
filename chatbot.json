@@ -63,6 +63,20 @@
             ]
         },
         {
+            "tag": "can-play",
+            "patterns": [
+                "play games",
+                "play game"
+            ],
+            "responses": [
+                "Unfortunately, I cannot play any games",
+                "Sorry, I cannot play any games",
+                "I cannot play any games. I am just a basic chatbot.",
+                "I cannot play any games. I can solve basic adding, subtracting, multiplying and dividing equations though.",
+                "I cannot play any games. I can solve equations though. Go on, just give me a math equation involving adding, subtracting, multiplying and or dividing."
+            ]
+        },
+        {
             "tag": "essay",
             "patterns": [
                 "write essay"
